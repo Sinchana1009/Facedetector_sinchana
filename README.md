@@ -1,2 +1,2 @@
-# Facedetector_sinchana
+# Facedetector_
 Facedetector python
